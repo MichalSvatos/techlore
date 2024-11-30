@@ -1,3 +1,6 @@
+> ⚠️ **THIS REPOSITORY IS ARCHIVED!** ⚠️
+> 
+> You can find the live version at [github.com/techlore/website](https://github.com/techlore/website)
 <h1>
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="assets/images/github-readme-dark.png">
